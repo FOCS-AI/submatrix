@@ -37,7 +37,6 @@ A dataset of publicly available physical optical network connections (subsea cab
 ## Our repository
 - GeoJSON: Each Cable Network downloaded from cable maps has its geoJSON file and has been converted using https://mygeodata.cloud/.
 - We use Folium to generate interactive maps for visualising the network. 
-- Source Code: https://colab.research.google.com/drive/1ZGZWXGmG1nbtzlRYfEof9pO27C3Bw_G8?usp=sharing
 
 ## List of Cables: 
 - To assess if links are active or decommissioned, check Infrapedia. However, their data is also crowdsourced, so it might only be somewhat reliable. 
